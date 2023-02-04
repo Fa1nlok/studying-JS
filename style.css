@@ -1,0 +1,16 @@
+* { background-color: rgb(0, 0, 0);}
+.Gallery{
+color: rgb(255, 0, 0);
+width: 300;
+height: 200;
+border: 1px;
+background-color: black;
+}
+.Naming_of_photos{
+color: rgb(255, 0, 0);
+align-content:center;
+}
+.button{
+background-color: black;
+
+}
